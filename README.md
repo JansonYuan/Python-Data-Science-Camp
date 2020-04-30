@@ -22,6 +22,18 @@
 ###
 🍓 **第一章 绪论和环境配置**
 
+**教学内容说明：**
+
+“工欲善其事，必先利其器”，为什么是Python？
+
+Python在编程语言中处于何种地位？Python自身具备什么样的特点？这是我们想给小伙伴们介绍的第一部分内容。第二部分为小伙伴介绍几款常用的Python编译器。
+
+**课程要点：**
+
+1、Python语言的特点及其流行的原因。
+
+2、选择一款编译器，配置好编译环境。
+
 -[【正课视频】第一章 绪论和环境配置](https://wx32e0ad0076a9091c.h5.xiaoe-tech.com/v1/course/video/v_5d78a8f84b13b_FL8inVL9?type=2&pro_id=p_5ce3b238f0745_n3iKLOAL)
 
 -[【作业讲解】助教实际演示配置环境过程](https://wx32e0ad0076a9091c.h5.xiaoe-tech.com/v1/course/video/v_5d78a984840b3_Ge1i969a?type=2&pro_id=p_5ce3b238f0745_n3iKLOAL)
@@ -32,6 +44,20 @@
 
 ###
 🍒 **第二章 Python基本语法元素**
+
+**教学内容说明：**
+
+“没有规矩，不成方圆”，这一章带领小伙伴纵览Python家的一些基本规矩：Python中存储各种“抽象”的变量，其命名、赋值和使用有什么特点？Python中对格式有哪些要求？Python中如何进行输入输出？有哪些简单数据结构、复合数据结构和流程控制结构？
+
+**课程要点：**
+
+1、掌握变量命名的规则、赋值方式（普通赋值和解包），了解Python保留字。
+
+2、了解Python数据类型和控制流程的构成。
+
+3、掌握Python中基本的输入和输出。
+
+4、掌握Python中通常遵守的PEP8格式规则，如对缩进、空格的要求等
 
 -[【正课视频】第二章 Python基本语法元素](https://wx32e0ad0076a9091c.h5.xiaoe-tech.com/v1/course/video/v_5d8c2d0d3f1a2_iRakYSCN?type=2&pro_id=p_5ce3b238f0745_n3iKLOAL)
 
