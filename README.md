@@ -19,7 +19,8 @@
 
 ## 课程安排及资料下载
 
-###🍓 **第一章 绪论和环境配置**
+###
+🍓 **第一章 绪论和环境配置**
 
 -[【正课视频】第一章 绪论和环境配置](https://wx32e0ad0076a9091c.h5.xiaoe-tech.com/v1/course/video/v_5d78a8f84b13b_FL8inVL9?type=2&pro_id=p_5ce3b238f0745_n3iKLOAL)
 
@@ -29,7 +30,8 @@
 
 -课件下载
 
-###🍒 **第二章 Python基本语法元素**
+###
+🍒 **第二章 Python基本语法元素**
 
 -[【正课视频】第二章 Python基本语法元素](https://wx32e0ad0076a9091c.h5.xiaoe-tech.com/v1/course/video/v_5d8c2d0d3f1a2_iRakYSCN?type=2&pro_id=p_5ce3b238f0745_n3iKLOAL)
 
