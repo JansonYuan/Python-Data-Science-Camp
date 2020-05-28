@@ -48,7 +48,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 
 
-####🍒 **第二章 Python基本语法元素**
+🍒 **第二章 Python基本语法元素**
 
 **教学内容说明：**
 
@@ -74,7 +74,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 
 
-####🍒 **第三章 Python基本数据类型**
+🍒 **第三章 Python基本数据类型**
 
 **教学内容说明：**
 
@@ -100,7 +100,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 
 
-####🍒 **第四章 Python复杂数据类型**
+🍒 **第四章 Python复杂数据类型**
 
 **教学内容说明：**
 
@@ -126,7 +126,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 
 
-####🍒 **第五章 Python中的程序控制结构**
+🍒 **第五章 Python中的程序控制结构**
 
 **教学内容说明：**
 
@@ -152,7 +152,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 
 
-####🍒 **第六章 Python中的函数**
+🍒 **第六章 Python中的函数**
 
 **教学内容说明：**
 
@@ -178,7 +178,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 
 
-####🍒 **第七章 Python的面向对象-类**
+🍒 **第七章 Python的面向对象-类**
 
 **教学内容说明：**
 
@@ -204,7 +204,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 
 
-####🍒 **第八章 Python中的文件和模块**
+🍒 **第八章 Python中的文件和模块**
 
 **教学内容说明：**
 
@@ -230,7 +230,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 
 
-####🍒 **第九章 一些有益的探索**
+🍒 **第九章 一些有益的探索**
 
 **教学内容说明：**
 
@@ -256,7 +256,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 
 
-####🍒 **第十章 Python的标准库**
+🍒 **第十章 Python的标准库**
 
 **教学内容说明：**
 
@@ -282,7 +282,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 
 
-####🍒 **第十一章 科学计算——Numpy库**
+🍒 **第十一章 科学计算——Numpy库**
 
 **教学内容说明：**
 
@@ -308,7 +308,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 
 
-####🍒 **第十二章 便捷的数据处理——Pandas库
+🍒 **第十二章 便捷的数据处理——Pandas库
 
 **教学内容说明：**
 
@@ -334,7 +334,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 
 
-####🍒 **第十三章 绘图利器——Matplotlib库**
+🍒 **第十三章 绘图利器——Matplotlib库**
 
 **教学内容说明：**
 
@@ -360,7 +360,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 
 
-####🍒 **第十四章 开源机器学习库——Sklearn(Scikit-learn)库**
+🍒 **第十四章 开源机器学习库——Sklearn(Scikit-learn)库**
 
 **教学内容说明：**
 
@@ -386,7 +386,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 
 
-####🍒 **第十五章 再谈编程**
+🍒 **第十五章 再谈编程**
 
 **教学内容说明：**
 
@@ -412,7 +412,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 
 
-####🍒 **终章 二分类比赛导师带打**
+🍒 **终章 二分类比赛导师带打**
 
 **教学内容说明：**
 
@@ -436,106 +436,3 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 -课件下载
 
-
-
-####🍒 **第二章 Python基本语法元素**
-
-**教学内容说明：**
-
-“没有规矩，不成方圆”，这一章带领小伙伴纵览Python家的一些基本规矩：Python中存储各种“抽象”的变量，其命名、赋值和使用有什么特点？Python中对格式有哪些要求？Python中如何进行输入输出？有哪些简单数据结构、复合数据结构和流程控制结构？
-
-**课程要点：**
-
-1、掌握变量命名的规则、赋值方式（普通赋值和解包），了解Python保留字。
-
-2、了解Python数据类型和控制流程的构成。
-
-3、掌握Python中基本的输入和输出。
-
-4、掌握Python中通常遵守的PEP8格式规则，如对缩进、空格的要求等
-
--[【正课视频】第二章 Python基本语法元素](https://wx32e0ad0076a9091c.h5.xiaoe-tech.com/v1/course/video/v_5d8c2d0d3f1a2_iRakYSCN?type=2&pro_id=p_5ce3b238f0745_n3iKLOAL)
-
--[【作业讲解】第二章 Python基本语法元素](https://wx32e0ad0076a9091c.h5.xiaoe-tech.com/v1/course/video/v_5d9ee793e3233_08cndpAO?type=2&pro_id=p_5ce3b238f0745_n3iKLOAL)
-
--[代码下载](https://github.com/JansonYuan/Python-Data-Science-Camp/tree/master/02%E3%80%81Python%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95)
-
--课件下载
-
-
-
-####🍒 **第二章 Python基本语法元素**
-
-**教学内容说明：**
-
-“没有规矩，不成方圆”，这一章带领小伙伴纵览Python家的一些基本规矩：Python中存储各种“抽象”的变量，其命名、赋值和使用有什么特点？Python中对格式有哪些要求？Python中如何进行输入输出？有哪些简单数据结构、复合数据结构和流程控制结构？
-
-**课程要点：**
-
-1、掌握变量命名的规则、赋值方式（普通赋值和解包），了解Python保留字。
-
-2、了解Python数据类型和控制流程的构成。
-
-3、掌握Python中基本的输入和输出。
-
-4、掌握Python中通常遵守的PEP8格式规则，如对缩进、空格的要求等
-
--[【正课视频】第二章 Python基本语法元素](https://wx32e0ad0076a9091c.h5.xiaoe-tech.com/v1/course/video/v_5d8c2d0d3f1a2_iRakYSCN?type=2&pro_id=p_5ce3b238f0745_n3iKLOAL)
-
--[【作业讲解】第二章 Python基本语法元素](https://wx32e0ad0076a9091c.h5.xiaoe-tech.com/v1/course/video/v_5d9ee793e3233_08cndpAO?type=2&pro_id=p_5ce3b238f0745_n3iKLOAL)
-
--[代码下载](https://github.com/JansonYuan/Python-Data-Science-Camp/tree/master/02%E3%80%81Python%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95)
-
--课件下载
-
-
-
-####🍒 **第二章 Python基本语法元素**
-
-**教学内容说明：**
-
-“没有规矩，不成方圆”，这一章带领小伙伴纵览Python家的一些基本规矩：Python中存储各种“抽象”的变量，其命名、赋值和使用有什么特点？Python中对格式有哪些要求？Python中如何进行输入输出？有哪些简单数据结构、复合数据结构和流程控制结构？
-
-**课程要点：**
-
-1、掌握变量命名的规则、赋值方式（普通赋值和解包），了解Python保留字。
-
-2、了解Python数据类型和控制流程的构成。
-
-3、掌握Python中基本的输入和输出。
-
-4、掌握Python中通常遵守的PEP8格式规则，如对缩进、空格的要求等
-
--[【正课视频】第二章 Python基本语法元素](https://wx32e0ad0076a9091c.h5.xiaoe-tech.com/v1/course/video/v_5d8c2d0d3f1a2_iRakYSCN?type=2&pro_id=p_5ce3b238f0745_n3iKLOAL)
-
--[【作业讲解】第二章 Python基本语法元素](https://wx32e0ad0076a9091c.h5.xiaoe-tech.com/v1/course/video/v_5d9ee793e3233_08cndpAO?type=2&pro_id=p_5ce3b238f0745_n3iKLOAL)
-
--[代码下载](https://github.com/JansonYuan/Python-Data-Science-Camp/tree/master/02%E3%80%81Python%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95)
-
--课件下载
-
-
-
-####🍒 **第二章 Python基本语法元素**
-
-**教学内容说明：**
-
-“没有规矩，不成方圆”，这一章带领小伙伴纵览Python家的一些基本规矩：Python中存储各种“抽象”的变量，其命名、赋值和使用有什么特点？Python中对格式有哪些要求？Python中如何进行输入输出？有哪些简单数据结构、复合数据结构和流程控制结构？
-
-**课程要点：**
-
-1、掌握变量命名的规则、赋值方式（普通赋值和解包），了解Python保留字。
-
-2、了解Python数据类型和控制流程的构成。
-
-3、掌握Python中基本的输入和输出。
-
-4、掌握Python中通常遵守的PEP8格式规则，如对缩进、空格的要求等
-
--[【正课视频】第二章 Python基本语法元素](https://wx32e0ad0076a9091c.h5.xiaoe-tech.com/v1/course/video/v_5d8c2d0d3f1a2_iRakYSCN?type=2&pro_id=p_5ce3b238f0745_n3iKLOAL)
-
--[【作业讲解】第二章 Python基本语法元素](https://wx32e0ad0076a9091c.h5.xiaoe-tech.com/v1/course/video/v_5d9ee793e3233_08cndpAO?type=2&pro_id=p_5ce3b238f0745_n3iKLOAL)
-
--[代码下载](https://github.com/JansonYuan/Python-Data-Science-Camp/tree/master/02%E3%80%81Python%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95)
-
--课件下载
