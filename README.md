@@ -122,7 +122,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 -[代码下载](https://github.com/JansonYuan/Python-Data-Science-Camp/tree/master/02%E3%80%81Python%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95)
 
--课件下载
+-[课件下载](https://github.com/JansonYuan/Python-Data-Science-Camp/blob/master/04%E3%80%81%E5%A4%8D%E6%9D%82%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/Python%E5%9F%BA%E7%A1%80%20%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E7%BB%84%E5%90%88%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%20.pdf)
 
 
 
@@ -148,7 +148,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 -[代码下载](https://github.com/JansonYuan/Python-Data-Science-Camp/tree/master/02%E3%80%81Python%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95)
 
--课件下载
+-[课件下载](https://github.com/JansonYuan/Python-Data-Science-Camp/blob/master/05%E3%80%81%E7%A8%8B%E5%BA%8F%E6%8E%A7%E5%88%B6%E7%BB%93%E6%9E%84/Python%E5%9F%BA%E7%A1%80%20%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E7%A8%8B%E5%BA%8F%E6%8E%A7%E5%88%B6%E7%BB%93%E6%9E%84%20.pdf)
 
 
 
@@ -174,7 +174,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 -[代码下载](https://github.com/JansonYuan/Python-Data-Science-Camp/tree/master/02%E3%80%81Python%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95)
 
--课件下载
+-[课件下载](https://github.com/JansonYuan/Python-Data-Science-Camp/blob/master/06%E3%80%81%E5%87%BD%E6%95%B0/Python%E5%9F%BA%E7%A1%80%20%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E5%87%BD%E6%95%B0%20.pdf)
 
 
 
@@ -200,7 +200,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 -[代码下载](https://github.com/JansonYuan/Python-Data-Science-Camp/tree/master/02%E3%80%81Python%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95)
 
--课件下载
+-[课件下载](https://github.com/JansonYuan/Python-Data-Science-Camp/blob/master/07%E3%80%81%E7%B1%BB/Python%E5%9F%BA%E7%A1%80%20%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E7%B1%BB%20.pdf)
 
 
 
@@ -226,7 +226,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 -[代码下载](https://github.com/JansonYuan/Python-Data-Science-Camp/tree/master/02%E3%80%81Python%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95)
 
--课件下载
+-[课件下载](https://github.com/JansonYuan/Python-Data-Science-Camp/blob/master/08%E3%80%81%E6%96%87%E4%BB%B6%E3%80%81%E6%A8%A1%E5%9D%97/Python%E5%9F%BA%E7%A1%80%20%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%96%87%E4%BB%B6%E3%80%81%E5%BC%82%E5%B8%B8%E5%92%8C%E6%A8%A1%E5%9D%97.pdf)
 
 
 
@@ -252,7 +252,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 -[代码下载](https://github.com/JansonYuan/Python-Data-Science-Camp/tree/master/02%E3%80%81Python%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95)
 
--课件下载
+-[课件下载](https://github.com/JansonYuan/Python-Data-Science-Camp/blob/master/09%E3%80%81%E6%9C%89%E7%9B%8A%E7%9A%84%E6%8E%A2%E7%B4%A2/Python%E5%9F%BA%E7%A1%80%20%E7%AC%AC%E4%B9%9D%E7%AB%A0%20%E6%9C%89%E7%9B%8A%E7%9A%84%E6%8E%A2%E7%B4%A2%20.pdf)
 
 
 
@@ -278,7 +278,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 -[代码下载](https://github.com/JansonYuan/Python-Data-Science-Camp/tree/master/02%E3%80%81Python%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95)
 
--课件下载
+-[课件下载](https://github.com/JansonYuan/Python-Data-Science-Camp/blob/master/10%E3%80%81Python%E6%A0%87%E5%87%86%E5%BA%93/Python%E5%9F%BA%E7%A1%80%20%E7%AC%AC%E5%8D%81%E7%AB%A0%20Python%E6%A0%87%E5%87%86%E5%BA%93%20.pdf)
 
 
 
@@ -304,7 +304,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 -[代码下载](https://github.com/JansonYuan/Python-Data-Science-Camp/tree/master/02%E3%80%81Python%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95)
 
--课件下载
+-[课件下载](https://github.com/JansonYuan/Python-Data-Science-Camp/blob/master/11%E3%80%81numpy%E5%BA%93/Python%E5%9F%BA%E7%A1%80%20%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0%20Numpy%E5%BA%93%20.pdf)
 
 
 
@@ -330,7 +330,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 -[代码下载](https://github.com/JansonYuan/Python-Data-Science-Camp/tree/master/02%E3%80%81Python%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95)
 
--课件下载
+-[课件下载](https://github.com/JansonYuan/Python-Data-Science-Camp/blob/master/12%E3%80%81pandas%E5%BA%93/Python%E5%9F%BA%E7%A1%80%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0%20Pandas%E5%BA%93.pdf)
 
 
 
@@ -356,7 +356,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 -[代码下载](https://github.com/JansonYuan/Python-Data-Science-Camp/tree/master/02%E3%80%81Python%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95)
 
--课件下载
+-[课件下载](https://github.com/JansonYuan/Python-Data-Science-Camp/blob/master/13%E3%80%81matplotlib%E5%BA%93/Python%E5%9F%BA%E7%A1%80%20%E7%AC%AC%E5%8D%81%E4%B8%89%E7%AB%A0%20Matplotlib%E5%BA%93.pdf)
 
 
 
@@ -382,7 +382,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 -[代码下载](https://github.com/JansonYuan/Python-Data-Science-Camp/tree/master/02%E3%80%81Python%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95)
 
--课件下载
+-[课件下载](https://github.com/JansonYuan/Python-Data-Science-Camp/blob/master/14%E3%80%81sklearn%E5%BA%93/Python%E5%9F%BA%E7%A1%80%20%E7%AC%AC%E5%8D%81%E5%9B%9B%E7%AB%A0%20Sklearn%E5%BA%93.pdf)
 
 
 
@@ -408,7 +408,7 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 -[代码下载](https://github.com/JansonYuan/Python-Data-Science-Camp/tree/master/02%E3%80%81Python%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95)
 
--课件下载
+-[课件下载](https://github.com/JansonYuan/Python-Data-Science-Camp/blob/master/15%E3%80%81%E5%86%8D%E8%B0%88%E7%BC%96%E7%A8%8B/Python%E5%9F%BA%E7%A1%80%20%E7%AC%AC%E5%8D%81%E4%BA%94%E7%AB%A0%20%E5%86%8D%E8%B0%88%E7%BC%96%E7%A8%8B.pdf)
 
 
 
@@ -434,5 +434,4 @@ Python在编程语言中处于何种地位？Python自身具备什么样的特�
 
 -[代码下载](https://github.com/JansonYuan/Python-Data-Science-Camp/tree/master/02%E3%80%81Python%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95)
 
--课件下载
 
